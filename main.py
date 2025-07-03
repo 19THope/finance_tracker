@@ -1,4 +1,4 @@
-from models.finance import add_income, add_expense, view_summary, save_to_csv
+from analytics.finance import add_income, add_expense, view_summary, save_to_csv
 from datetime import datetime
 
 # Create a menu for user interaction
