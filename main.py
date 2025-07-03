@@ -1,3 +1,4 @@
+from models.finance import add_income, add_expense, view_summary, save_to_csv
 
 # Create a menu for user interaction
 def main():
